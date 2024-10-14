@@ -11,9 +11,7 @@ import retrofit2.http.GET
 import retrofit2.http.POST
 
 object RetrofitInstance {
-    // private const val BASE_URL = "http://dam.inspedralbes.cat:20999/" // Reemplaza <tu_ip> con tu IP local o localhost
-
-    private const val BASE_URL = "http://10.0.2.2:20000/"
+    private const val BASE_URL = "http://dam.inspedralbes.cat:20999/"
 
     private val retrofit by lazy {
         Retrofit.Builder()
