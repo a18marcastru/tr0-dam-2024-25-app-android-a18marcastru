@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Autoescola</string>
+    <string name="preguntes">Preguntes</string>
+    <string name="resultats">Resultats</string>
+    <string name="descripcion_imagen">Imagen de la pregunta</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="autoescola">¡Autoescola!</string>
+    <string name="comencar_partida">Començar Partida</string>
+</resources>
