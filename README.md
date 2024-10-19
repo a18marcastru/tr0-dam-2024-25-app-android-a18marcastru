@@ -13,13 +13,14 @@ Un cop comenceu heu de canviar aquesta explicació amb la corresponent al vostre
  * Adreça del prototip gràfic del projecte en Penpot:
    
     Start:
+   
     ![image](https://github.com/user-attachments/assets/ba0d1965-89ca-48a1-93d8-dfd1e1ca7600)
 
-   
     Questions:
+   
     ![image](https://github.com/user-attachments/assets/919854ea-7a68-4e35-9a27-b35810381763)
 
-   
     Results:
+   
     ![image](https://github.com/user-attachments/assets/1fb2361d-7d13-4fd0-bedc-668f83c09482)
  * Estat: Terminat
